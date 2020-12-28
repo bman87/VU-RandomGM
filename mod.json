@@ -1,0 +1,10 @@
+{
+    "Name": "GunMaster Weapon Preset Randomizer",
+    "Description": "Changes weapons needed for GM level up",
+    "Authors": ["B-Man"],
+    "Version": "0.1",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
